@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi there, I am Elanchezhian K R from Puducherry, I work as a Data Analyst. 
 
-Maybe say a some things about yourself.
+I am curious to learn about new stuff and sharing with the community, so I have created this space.
 
-Or maybe what you plan to blog about.
+Looking forward to learn and grow.
