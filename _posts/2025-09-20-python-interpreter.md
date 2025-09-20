@@ -10,5 +10,5 @@ Python is called an **interpreted language** because the source code is not dire
 
 ## Flow Diagram
 
-![Alt text](chezhian0599.github.io/_posts/images/Python_Interpreter.drawio.png)
+![Alt text](https://drive.google.com/file/d/1b3ByF2eamLOzs-6AJQ3iZsiSz1ym7YS0/view?usp=drive_link)
 
