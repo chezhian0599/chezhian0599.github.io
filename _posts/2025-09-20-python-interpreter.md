@@ -8,7 +8,3 @@ A Python interpreter is software that reads and executes Python code. When a pro
 
 Python is called an **interpreted language** because the source code is not directly compiled into machine code beforehand. Instead, the Python interpreter processes the code, compiles it into bytecode, and executes it line by line using the Python Virtual Machine during runtime.
 
-## Flow Diagram
-
-![Alt text](https://drive.google.com/file/d/1b3ByF2eamLOzs-6AJQ3iZsiSz1ym7YS0/view?usp=drive_link)
-
