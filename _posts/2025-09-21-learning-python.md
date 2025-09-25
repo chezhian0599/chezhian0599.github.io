@@ -1,4 +1,4 @@
-# operators in Python
+# Learning Python From Bro Code 
 
 ## Augmented assignment operators
 
@@ -64,3 +64,55 @@ if operator in ("+","-","*","/"):
 else:
     print(f"The {operator} is not a valid operator")
 ```
+
+## weight converter, the idea is to create a logic that converts kg to pounds and vice versa
+```
+weight_to_convert = float(input("Enter the weight"))
+unit = input("Kilogram or Pounds (K or L)? ")
+
+if unit == "K":
+    final_output = weight_to_convert * 2.20
+    print(f"{weight_to_convert} Kg is equal to {final_output} Lbs")
+elif unit =="L":
+    final_output = weight_to_convert / 2.20
+    print(f"{weight_to_convert} Lbs is equal to {final_output} Kg")
+else:
+    print(f"{unit} is not a valid unit")
+```
+
+# conditional Expressions
+
+### Conditional Expressions are one line shortcuts for if-else statements
+
+Example 
+
+x if condition else y
+
+If the condition evaluates to True 'x' will be returned else 'y' will be returned
+
+Code Examples
+
+```
+Set_1
+num = 0
+
+print('Positive' if num >0 else 'Negative')
+
+Set_2
+even_or_odd = 4
+
+print('Even' if even_or_odd%2 ==0 else 'Odd')
+
+Set_3
+
+user_role = 'Guest'
+
+print('Full Access' if user_role =='Admin' else 'Limited Access')
+```
+
+
+
+
+
+
+
