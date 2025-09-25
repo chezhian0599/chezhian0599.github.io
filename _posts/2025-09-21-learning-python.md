@@ -108,6 +108,15 @@ Set_3
 user_role = 'Guest'
 
 print('Full Access' if user_role =='Admin' else 'Limited Access')
+
+set_4
+
+a = 7
+b = 9
+
+max_num = print(a if a>b else b)
+min_num = print(a if a<b else b)
+
 ```
 
 
