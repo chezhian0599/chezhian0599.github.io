@@ -119,6 +119,25 @@ min_num = print(a if a<b else b)
 
 ```
 
+# validate user input exercise
+
+## requirements
+
+Total characters not more than 12, there should not be any spaces, there should not be any digits
+```
+def username_validator(username):
+    if len(username)<=12: 
+        if not username.isalpha():
+            return 'your username cannot contain numbers'
+        elif not username.find(' ') ==-1:
+            return 'your username cannot contain spaces'
+        else:
+            return f'Welcome {username} !!'
+    else: 
+        return 'Total characters should not be more than 12'
+```
+
+
 
 
 
